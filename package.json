@@ -44,7 +44,7 @@
     "@typescript-eslint/eslint-plugin": "5.40.0",
     "@typescript-eslint/parser": "5.40.0",
     "babel-loader": "8.2.5",
-    "chromatic": "6.10.1",
+    "chromatic": "6.10.2",
     "concurrently": "7.4.0",
     "css-loader": "6.7.1",
     "eslint": "8.25.0",
