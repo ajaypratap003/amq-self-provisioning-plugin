@@ -47,7 +47,7 @@
     "chromatic": "6.11.4",
     "concurrently": "7.5.0",
     "css-loader": "6.7.1",
-    "eslint": "8.26.0",
+    "eslint": "8.27.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.2.1",
     "eslint-plugin-react": "7.31.10",
